@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaditya Kinlekar</h1>
-<h3 align="center">Experienced and detail-oriented frontend developer with a strong background in web development and design. Proficient in HTML, CSS, JavaScript, React. Always eager to learn new technologies and tools.</h3>
+<h3 align="center">Experienced and detail-oriented frontend developer with a strong background in web development and design. Proficient in HTML, CSS, JavaScript, React. keen to learn new technologies and tools.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaditya-kinlekar&label=Profile%20views&color=0e75b6&style=flat" alt="shaditya-kinlekar" /> </p>
 
